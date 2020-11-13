@@ -6,4 +6,4 @@ I've spent most of this past year studying full stack web development at [Lambda
 
 Prior to becoming a web developer, I rose through the ranks as a sales and partnerships manager at [Guideline](https://www.guideline.com), a top-tier fintech startup based in the Bay Area, where I got my first taste of software development and ultimately decided to pursue it as a career.
 
-See my [portfolio here](https://www.alexkemper.com) 
+See my [portfolio here](https://www.alexkemper.com). 
